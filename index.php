@@ -11,7 +11,7 @@
 </head>
 <body>
 <h1>Hello</h1>
-<h2>World</h2>
+<h2>World!!!</h2>
     <form action="php/mail.php" method="post">
         <fieldset>
             <legend>Поля для заполнения</legend>
