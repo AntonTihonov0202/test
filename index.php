@@ -23,3 +23,4 @@
     <script src="js/Java.js"></script>
 </body>
 </html>
+<!--Добавил код к исходному-->
