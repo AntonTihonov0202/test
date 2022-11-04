@@ -16,3 +16,4 @@ let users = [
 users.forEach(user => {
     if (user.age >= 18) console.log(user.name)
 })
+// KASFNSDknf
